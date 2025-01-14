@@ -44,12 +44,12 @@ Both datasets are available for download via the following Google Drive link:
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-repo/cancer_subtype_classification.git
-   cd breast-cancer-classification
+   cd cancer_subtype_classification
    ```
 2. Download datasets from the provided Google Drive link and place them in the `data/` directory.
 3. Run the notebook:
    ```bash
-   jupyter notebook breast-cancer-subtype-classification_org.ipynb
+   jupyter notebook main.ipynb
    ```
 
 ### Results
