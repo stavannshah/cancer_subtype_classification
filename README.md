@@ -43,7 +43,7 @@ Both datasets are available for download via the following Google Drive link:
 ### Setup and Usage
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-repo/breast-cancer-classification.git
+   git clone https://github.com/your-repo/cancer_subtype_classification.git
    cd breast-cancer-classification
    ```
 2. Download datasets from the provided Google Drive link and place them in the `data/` directory.
